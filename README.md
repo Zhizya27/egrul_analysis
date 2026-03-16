@@ -31,4 +31,4 @@
 Посмотреть получившийся дашборд можно в папке dashboard/screenshots, файлы **1.png, 2.png, 3.png**
 
 
-Чтобы импортировать дашборд в Superset, скачайте **dashboard_export_20260316T182410.zip**
+Чтобы импортировать дашборд в Superset, скачайте **dashboard_export_20260316T182410.zip** из папки dashboard
